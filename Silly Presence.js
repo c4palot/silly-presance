@@ -4,11 +4,11 @@
  *
  * @author c4palot
  * @authorId 849180136828960799
- * @description Auto starts Rich Presence with configurable settings.
+ * @description A silly presence for discord.
  *
- * @updateUrl https://gist.githubusercontent.com/Miniontoby/9a7c77538cd3d5a3cdc7324d0e23b351/raw/AutoStartRichPresence.plugin.js
- * @source https://gist.githubusercontent.com/Miniontoby/9a7c77538cd3d5a3cdc7324d0e23b351/raw/AutoStartRichPresence.plugin.js
- * @website https://gist.github.com/Miniontoby/9a7c77538cd3d5a3cdc7324d0e23b351
+ * @updateUrl https://www.youtube.com/watch?v=Gnm3hIcjiCQ
+ * @source https://raw.githubusercontent.com/c4palot/silly-presance/main/Silly%20Presence.js
+ * @website https://www.youtube.com/watch?v=Gnm3hIcjiCQ
  */
 
 // Updated August 6th, 2023
