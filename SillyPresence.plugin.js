@@ -7,7 +7,7 @@
  * @description A silly presence for discord.
  *
  * @updateUrl https://www.youtube.com/watch?v=Gnm3hIcjiCQ
- * @source https://raw.githubusercontent.com/c4palot/silly-presance/main/Silly%20Presence.js
+ * @source https://raw.githubusercontent.com/c4palot/silly-presance/main/SillyPresence.plugin.js
  * @website https://www.youtube.com/watch?v=Gnm3hIcjiCQ
  */
 
