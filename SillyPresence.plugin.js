@@ -21,7 +21,7 @@ const defaultSettings = {
 	details: "felching 😼",
 	state: "HAWK TUAH!",
 	button1Label: "MEET THE TUAHS!",
-	button1URL: "https://www.youtube.com/watch?v=RvWP3_rTleo",
+	button1URL: "https://youtu.be/RvWP3_rTleo?si=UUjPCMNAsz4L9pGP",
 	button2Label: "",
 	button2URL: "",
 	smallImageKey: "",
