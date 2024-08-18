@@ -21,7 +21,7 @@ const defaultSettings = {
 	details: "I'm partaking in silly activities",
 	state: "SO SILLY!",
 	button1Label: "SO SILLY!",
-	button1URL: "https://www.youtube.com/watch?v=Gnm3hIcjiCQ",
+	button1URL: "https://www.youtube.com/watch?v=RvWP3_rTleo",
 	button2Label: "",
 	button2URL: "",
 	smallImageKey: "",
